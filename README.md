@@ -1,2 +1,2 @@
 # openjdk-numbers
-openjdk excerpts
+openjdk excerpts, mostly for evaluating effect of compiling without intrinsics.
